@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $to = "ranitmanikofficial@outlook.com"; // Your email address
+    $to = "rayene.zegdene@gmail.com"; // Your email address
 
     // Get form data
     $name = $_POST["name"];
